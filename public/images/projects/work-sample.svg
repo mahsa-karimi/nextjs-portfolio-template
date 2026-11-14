@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title">
+  <title id="title">Work sample placeholder</title>
+  <rect width="1200" height="800" fill="#e8e4dc"/>
+  <rect x="96" y="96" width="1008" height="608" rx="32" fill="#faf9f6"/>
+  <rect x="144" y="144" width="912" height="64" rx="16" fill="#d2c8b8"/>
+  <rect x="144" y="256" width="416" height="352" rx="24" fill="#b9c9bf"/>
+  <rect x="608" y="272" width="352" height="32" rx="16" fill="#c6b8a5"/>
+  <rect x="608" y="336" width="400" height="20" rx="10" fill="#e0d9ce"/>
+  <rect x="608" y="376" width="336" height="20" rx="10" fill="#e0d9ce"/>
+  <rect x="608" y="456" width="176" height="56" rx="16" fill="#60796d"/>
+</svg>

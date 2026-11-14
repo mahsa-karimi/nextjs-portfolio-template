@@ -1,0 +1,168 @@
+{
+  "Metadata": {
+    "title": "Portfolio",
+    "Home": {
+      "title": "Your Name",
+      "description": "A customizable portfolio starter. Write your own introduction, skills, experience, and projects here."
+    },
+    "About": {
+      "title": "About me",
+      "description": "Learn about my approach to frontend development, Clean Architecture, team leadership, and building maintainable digital products."
+    },
+    "Experience": {
+      "title": "Experience",
+      "description": "Explore the experience, roles, and technologies you choose to add to this portfolio."
+    },
+    "Projects": {
+      "title": "Projects",
+      "description": "Browse selected frontend and mobile projects, the technologies behind them, and the problems they solve."
+    },
+    "Contact": {
+      "title": "Contact",
+      "description": "Get in touch about a project, opportunity, or collaboration."
+    }
+  },
+  "OpenGraph": {
+    "eyebrow": "Personal portfolio",
+    "title": "Thoughtful digital experiences",
+    "description": "Frontend development · Clean Architecture · Internationalization",
+    "alt": "Portfolio — thoughtful digital experiences"
+  },
+  "Home": {
+    "eyebrow": "Write your stack, tools, and methodology here",
+    "title": "Write your stack",
+    "description": "Write a short summary about yourself here: your background, interests, strengths, the work you enjoy, and the kind of opportunities or products you are looking for.",
+    "projectsCta": "Explore projects",
+    "aboutCta": "About me",
+    "aboutTitle": "A little about me",
+    "aboutDescription": "Write a short introduction here about yourself, your strengths, the kind of work you enjoy, and what you are looking for next.",
+    "featuredTitle": "Featured projects",
+    "featuredDescription": "Add your best projects here and briefly explain the problem, your contribution, and the result.",
+    "allProjects": "All projects",
+    "contactTitle": "Have a project in mind?",
+    "contactDescription": "Available to start immediately. Open to on-site, hybrid, or remote roles in your region or remotely.",
+    "contactCta": "Get in touch"
+  },
+  "About": {
+    "title": "About me",
+    "bio": "Write about yourself here: your background, the problems you enjoy solving, the technologies you use, and the kind of products you want to build. Keep this paragraph personal, specific, and easy for visitors to understand.",
+    "availability": "Write your location, availability, and preferred working arrangement here.",
+    "location": "Your location · Open to interesting teams and products",
+    "skillsTitle": "Technical skills",
+    "skillsDescription": "Write the frameworks, tools, technologies, and methodologies you work with. Include only skills that represent your experience and interests.",
+    "skills": {
+      "frameworks": {
+        "title": "Frameworks",
+        "items": [
+          "Write the frameworks you work with here"
+        ]
+      },
+      "programmingLanguages": {
+        "title": "Programming languages",
+        "items": [
+          "Write the programming languages you use here"
+        ]
+      },
+      "tools": {
+        "title": "Tools",
+        "items": [
+          "Write the tools you use here"
+        ]
+      },
+      "libraries": {
+        "title": "Libraries",
+        "items": [
+          "Write the libraries you use here"
+        ]
+      },
+      "methodologies": {
+        "title": "Methodologies",
+        "items": [
+          "Write the methodologies you follow here"
+        ]
+      }
+    },
+    "education": {
+      "title": "Write your last degree and university",
+      "items": [
+        {
+          "degree": "Write your last degree here",
+          "institution": "Write your last university here",
+          "dates": "Write your education dates here"
+        }
+      ]
+    },
+    "languages": {
+      "title": "Languages",
+      "items": [
+        "Write your languages here"
+      ]
+    }
+  },
+  "Experience": {
+    "title": "Experience",
+    "description": "Add one experience entry here. Write your project name, description, role, stack, tools, technologies, libraries, and methodology.",
+    "present": "Present",
+    "periodHint": "Start date – end date (your work period)",
+    "technologies": "Technologies"
+  },
+  "Projects": {
+    "title": "Projects",
+    "description": "Keep one project template here. Write your project name, description, role, frameworks, libraries, tools, technologies, methodologies, and result.",
+    "viewProject": "View project: {title}",
+    "details": "View details",
+    "live": "Live site",
+    "github": "GitHub",
+    "opensInNewTab": "(opens in a new tab)"
+  },
+  "ProjectDetail": {
+    "backToProjects": "Back to projects",
+    "present": "Present",
+    "periodHint": "Start date – end date (project period)",
+    "gallery": "Project image gallery",
+    "aboutProject": "About this project",
+    "technologies": "Technologies",
+    "projectLinks": "Project links",
+    "live": "Live site",
+    "github": "GitHub",
+    "opensInNewTab": "{title} (opens in a new tab)"
+  },
+  "Contact": {
+    "title": "Contact",
+    "heading": "Let's work together.",
+    "description": "I am available to start immediately. If you are hiring or building something interesting, I'd love to hear from you.",
+    "email": "Send me an email",
+    "linkedin": "Connect with me",
+    "copyEmail": "Copy email address",
+    "copyLinkedin": "Copy LinkedIn profile"
+  },
+  "LanguageSwitcher": {
+    "label": "Choose language",
+    "en": "English",
+    "pt": "Português",
+    "fa": "فارسی"
+  },
+  "Layout": {
+    "Header": {
+      "brand": "Portfolio",
+      "primaryNavigation": "Main navigation",
+      "home": "Home",
+      "about": "About me",
+      "experience": "Experience",
+      "projects": "Projects",
+      "contact": "Contact",
+      "openMenu": "Open navigation menu",
+      "closeMenu": "Close navigation menu",
+      "mobileNavigation": "Mobile navigation"
+    },
+    "Footer": {
+      "note": "Designed and built with care."
+    },
+    "ThemeToggle": {
+      "label": "Color theme",
+      "light": "Light",
+      "dark": "Dark",
+      "system": "System"
+    }
+  }
+}

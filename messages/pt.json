@@ -1,0 +1,168 @@
+{
+  "Metadata": {
+    "title": "Portefólio",
+    "Home": {
+      "title": "Your Name",
+      "description": "Um modelo de portefólio personalizável. Escreva aqui a sua apresentação, competências, experiência e projetos."
+    },
+    "About": {
+      "title": "Sobre mim",
+      "description": "Conheça a minha abordagem ao desenvolvimento frontend, à arquitetura limpa, à liderança de equipas e à criação de produtos digitais fáceis de manter."
+    },
+    "Experience": {
+      "title": "Experiência",
+      "description": "Conheça a experiência, as funções e as tecnologias que decidir adicionar a este portefólio."
+    },
+    "Projects": {
+      "title": "Projetos",
+      "description": "Explore projetos selecionados de frontend e mobile, as tecnologias utilizadas e os problemas que resolvem."
+    },
+    "Contact": {
+      "title": "Contacto",
+      "description": "Entre em contacto para falar de um projeto, de uma oportunidade ou de uma colaboração."
+    }
+  },
+  "OpenGraph": {
+    "eyebrow": "Portefólio pessoal",
+    "title": "Experiências digitais bem pensadas",
+    "description": "Desenvolvimento frontend · Arquitetura limpa · Internacionalização",
+    "alt": "Portefólio — experiências digitais bem pensadas"
+  },
+  "Home": {
+    "eyebrow": "Escreva aqui a sua stack, ferramentas e metodologia",
+    "title": "Escreva aqui a sua stack",
+    "description": "Escreva aqui um breve resumo sobre si: a sua experiência, interesses, pontos fortes, o trabalho de que gosta e as oportunidades ou produtos que procura.",
+    "projectsCta": "Explorar projetos",
+    "aboutCta": "Sobre mim",
+    "aboutTitle": "Um pouco sobre mim",
+    "aboutDescription": "Escreva aqui uma breve apresentação sobre si, os seus pontos fortes, o tipo de trabalho de que gosta e o que procura a seguir.",
+    "featuredTitle": "Projetos em destaque",
+    "featuredDescription": "Adicione aqui os seus melhores projetos e explique brevemente o problema, a sua contribuição e o resultado.",
+    "allProjects": "Todos os projetos",
+    "contactTitle": "Tem um projeto em mente?",
+    "contactDescription": "Disponível para começar de imediato. Aberta a funções presenciais, híbridas ou remotas na sua região.",
+    "contactCta": "Entrar em contacto"
+  },
+  "About": {
+    "title": "Sobre mim",
+    "bio": "Escreva aqui sobre si: a sua experiência, os problemas que gosta de resolver, as tecnologias que utiliza e os produtos que quer criar. Mantenha este texto pessoal, específico e fácil de compreender.",
+    "availability": "Escreva aqui a sua localização, disponibilidade e regime de trabalho preferido.",
+    "location": "Localização de exemplo · Aberta a equipas e produtos interessantes",
+    "skillsTitle": "Competências técnicas",
+    "skillsDescription": "Escreva aqui as frameworks, ferramentas, tecnologias e metodologias com que trabalha. Inclua apenas competências que representam a sua experiência e interesses.",
+    "skills": {
+      "frameworks": {
+        "title": "Frameworks",
+        "items": [
+          "Escreva aqui as frameworks com que trabalha"
+        ]
+      },
+      "programmingLanguages": {
+        "title": "Linguagens de programação",
+        "items": [
+          "Escreva aqui as linguagens de programação que utiliza"
+        ]
+      },
+      "tools": {
+        "title": "Ferramentas",
+        "items": [
+          "Escreva aqui as ferramentas que utiliza"
+        ]
+      },
+      "libraries": {
+        "title": "Bibliotecas",
+        "items": [
+          "Escreva aqui as bibliotecas que utiliza"
+        ]
+      },
+      "methodologies": {
+        "title": "Metodologias",
+        "items": [
+          "Escreva aqui as metodologias que segue"
+        ]
+      }
+    },
+    "education": {
+      "title": "Escreva aqui o seu último grau e universidade",
+      "items": [
+        {
+          "degree": "Escreva aqui o seu último grau académico",
+          "institution": "Escreva aqui a sua última universidade",
+          "dates": "Escreva aqui as suas datas de formação"
+        }
+      ]
+    },
+    "languages": {
+      "title": "Línguas",
+      "items": [
+        "Escreva aqui as suas línguas"
+      ]
+    }
+  },
+  "Experience": {
+    "title": "Experiência",
+    "description": "Adicione aqui uma experiência. Escreva o nome e a descrição do projeto, a sua função, stack, ferramentas, tecnologias, bibliotecas e metodologia.",
+    "present": "Atualidade",
+    "periodHint": "Data de início – data de fim (o seu período de trabalho)",
+    "technologies": "Tecnologias"
+  },
+  "Projects": {
+    "title": "Projetos",
+    "description": "Mantenha aqui um modelo de projeto. Escreva o nome, descrição, função, frameworks, bibliotecas, ferramentas, tecnologias, metodologias e resultado.",
+    "viewProject": "Ver projeto: {title}",
+    "details": "Ver detalhes",
+    "live": "Site online",
+    "github": "GitHub",
+    "opensInNewTab": "(abre num novo separador)"
+  },
+  "ProjectDetail": {
+    "backToProjects": "Voltar aos projetos",
+    "present": "Atualidade",
+    "periodHint": "Data de início – data de fim (período do projeto)",
+    "gallery": "Galeria de imagens do projeto",
+    "aboutProject": "Sobre este projeto",
+    "technologies": "Tecnologias",
+    "projectLinks": "Ligações do projeto",
+    "live": "Site online",
+    "github": "GitHub",
+    "opensInNewTab": "{title} (abre num novo separador)"
+  },
+  "Contact": {
+    "title": "Contacto",
+    "heading": "Vamos trabalhar juntos.",
+    "description": "Tenho disponibilidade imediata. Se procura alguém para integrar a sua equipa ou está a desenvolver algo interessante, terei todo o gosto em falar consigo.",
+    "email": "Envie-me um e-mail",
+    "linkedin": "Ligue-se a mim",
+    "copyEmail": "Copiar endereço de e-mail",
+    "copyLinkedin": "Copiar perfil do LinkedIn"
+  },
+  "LanguageSwitcher": {
+    "label": "Escolher idioma",
+    "en": "English",
+    "pt": "Português",
+    "fa": "فارسی"
+  },
+  "Layout": {
+    "Header": {
+      "brand": "Portefólio",
+      "primaryNavigation": "Navegação principal",
+      "home": "Início",
+      "about": "Sobre mim",
+      "experience": "Experiência",
+      "projects": "Projetos",
+      "contact": "Contacto",
+      "openMenu": "Abrir menu de navegação",
+      "closeMenu": "Fechar menu de navegação",
+      "mobileNavigation": "Navegação em dispositivos móveis"
+    },
+    "Footer": {
+      "note": "Desenhado e desenvolvido com cuidado."
+    },
+    "ThemeToggle": {
+      "label": "Tema de cores",
+      "light": "Claro",
+      "dark": "Escuro",
+      "system": "Sistema"
+    }
+  }
+}
