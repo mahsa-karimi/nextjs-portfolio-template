@@ -113,4 +113,3 @@ To update visible copy or metadata, edit the corresponding message in all three 
 6. **Set the canonical production origin.** Set `NEXT_PUBLIC_SITE_URL` to the final HTTPS origin (for example `https://your-domain.com`, using the preferred `www` or apex host). Apply it to Production and redeploy. Confirm the canonical links, sitemap at `/sitemap.xml`, robots file at `/robots.txt`, localized routes, social preview image, and contact form on the deployed site.
 
 The values in `.env.example` are placeholders; replace them with your real email configuration before publishing.
-# portfolio
